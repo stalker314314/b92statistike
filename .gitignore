@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Vagrant directory
+.vagrant
+
+# b92statistike logs
+/b92statistike-*.log
+
+# b92statistike dumps
+/dumps
+
 # C extensions
 *.so
 
