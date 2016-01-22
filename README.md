@@ -7,7 +7,7 @@ kojima su izvučene vesti i komentari za 2015. godinu.
 
 Ako vas skripte ne interesuju, dobijene analize su objavljene na:
 
-http://blog.kokanovic.org/statistike-b92-vesti-i-komentara-u-2015-godini/
+http://startit.rs/skrejpovali-smo-b92-net-nikad-necete-pogoditi-koja-vest-je-imala-247-056-minusa/
 
 ## Gotovi podaci
 
