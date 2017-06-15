@@ -14,7 +14,7 @@ http://startit.rs/skrejpovali-smo-b92-net-nikad-necete-pogoditi-koja-vest-je-ima
 Ako ne želite Vi da scrape-ujete b92.net od nule, a postojeće analize nisu dovoljne,
 kompletan dump baze za SQL Server se nalazi ovde:
 
-https://portalvhds64bvg4z9qj6c7.blob.core.windows.net/bacpacs/b92-2016-1-18-22-29.bacpac
+https://kokanbackups.blob.core.windows.net/db-bacpacs/b92-2016-1-18-22-29.bacpac
 (user: sef, pass: N0vakovic)
 
 ## Hoću sve od nule
